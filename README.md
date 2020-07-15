@@ -30,10 +30,10 @@
 
 
 ### Contact - Let's become friend
-- Twitter [Emilio](https://twitter.com/zoha131) || [Zoha](https://twitter.com/zoha131)
-- Github [Emilio](https://github.com/zoha131) || [Zoha](https://github.com/zoha131)
-- Linkedin [Emilio](https://www.linkedin.com/in/zoha131/) || [Zoha](https://www.linkedin.com/in/zoha131/)
-- Facebook [Emilio](https://www.facebook.com/zoha131) || [Zoha](https://www.facebook.com/zoha131)
+- Twitter [Emilio](https://twitter.com/EmilioRodr22) || [Zoha](https://twitter.com/zoha131)
+- Github [Emilio](https://github.com/Emilio22) || [Zoha](https://github.com/zoha131)
+- Linkedin  || [Zoha](https://www.linkedin.com/in/zoha131/)
+- Facebook || [Zoha](https://www.facebook.com/zoha131)
 
 <p>
 Don't forget to star ⭐ the repo it motivates us to learn and share more open source work
